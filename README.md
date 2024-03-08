@@ -1,5 +1,7 @@
 # Multiplayer Drawing App
 
+![Realtime Multiplayer Drawing](assets/realtime-multiplayer-drawing.png)
+
 This is a multiplayer drawing app where strokes appear on everyone else's screens in realtime. Users can pick a name and color, and are saved to the database on login.
 
 ## Installation
